@@ -6,7 +6,7 @@ import Filtros from './Filtros';
 
 export default function Cardapio() {  //1ª letra maiuscula sempre para componentes reacts
     const [busca, setBusca] = useState("");
-    const [filtro, setFiltro] = useState("");
+    // const [filtro, setFiltro] = useState("");
     return (
         <main>
             <nav className={styles.menu}>
