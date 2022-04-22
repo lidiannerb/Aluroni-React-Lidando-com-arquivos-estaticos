@@ -6,7 +6,7 @@ import Filtros from './Filtros';
 
 export default function Cardapio() {  //1ª letra maiuscula sempre para componentes reacts
     const [busca, setBusca] = useState("");
-    // const [filtro, setFiltro] = useState("");
+    const [filtro, setFiltro] = useState<number | null>(null);
     return (
         <main>
             <nav className={styles.menu}>
@@ -19,7 +19,7 @@ export default function Cardapio() {  //1ª letra maiuscula sempre para componen
                 <h3 className={styles.cardapio__titulo}>Cardápio</h3>
                 <Buscador busca={busca} setBusca={setBusca} />
                 <div className={styles.cardapio__filtros}>
-                    <Filtros />
+                    <Filtros filtro={filtro} setFiltro={setFiltro} />
                 </div>
             </section>            
         </main>
