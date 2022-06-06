@@ -1,5 +1,5 @@
-@import "styles/variables.scss";
-@import "styles/breakpoints.scss";
+@import "src/styles/_variables.scss";   
+@import "src/styles/_breakpoints.scss";
 
 .menu {
     padding: 20px $padding-horizontal;

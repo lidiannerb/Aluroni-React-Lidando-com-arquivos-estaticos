@@ -4,6 +4,7 @@ import Buscador from './buscador';
 import { useState } from 'react';
 import Filtros from './Filtros';
 import Ordenador from './Ordenador';
+import Itens from "./Itens";
 
 export default function Cardapio() {  //1ª letra maiuscula sempre para componentes reacts
     const [busca, setBusca] = useState("");
@@ -24,6 +25,7 @@ export default function Cardapio() {  //1ª letra maiuscula sempre para componen
                     <Filtros filtro={filtro} setFiltro={setFiltro} />
                     <Ordenador ordenador={ordenador} setOrdenador={setOrdenador} /> 
                 </div>
+                <Itens />
             </section>            
         </main>
     );
