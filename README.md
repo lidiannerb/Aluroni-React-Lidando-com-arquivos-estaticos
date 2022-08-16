@@ -1,46 +1,46 @@
-# Getting Started with Create React App
+# Aluroni
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Vídeo](inserir gif)
 
-## Available Scripts
+## Índice
 
-In the project directory, you can run:
+- [1. Status do projeto](#1-status-do-projeto)
+- [2. Acesso](#2-acesso)
+- [3. Descrição](#3-descricao)
+- [4. Tecnologias utilizadas](#8-tecnologias-utilizadas)
+- [5. Pessoas desenvolvedoras](#9-pessoas-desenvolvedoras)
 
-### `npm start`
+## 1. Status do projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- ![Bagde concluído](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-green) 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 2. Acesso
 
-### `npm test`
+O deploy do projeto foi realizado pelo Netlify. [Clique aqui](https://react-lidando-com-arquivos-estaticos-aluroni.netlify.app/) para acessá-lo.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Como usar
+Você precisará:
 
-### `npm run build`
+- Instalar o Node.js e clonar o projeto.
+- Instalar as dependências:  npm install
+- Iniciar a aplicação: npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 3. Descrição
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ Inserir descrição
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 4. Tecnologias utilizadas
 
-### `npm run eject`
+- React
+- javascript
+- HTML5
+- CSS3
+- Node.JS
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 5. Pessoas desenvolvedoras
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Este projeto foi desenvolvido durante o Bootcamp da Laboratória, Turma 007 pelas colaboradoras: 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Lidianne Barbosa](https://www.linkedin.com/in/lromao/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Lidianne](assets/readme/lidianne%20(3).jpg)
