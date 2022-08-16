@@ -1,6 +1,6 @@
 # Aluroni
 
-![Vídeo](inserir gif)
+![Vídeo](src/assets/Readme/Aluroni.gif)
 
 ## Índice
 
