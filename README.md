@@ -38,6 +38,15 @@ Você precisará:
 
 Este projeto foi desenvolvido para o programa Oracle One | Alura, durante a trilha "Iniciante em Programação T3 - ONE".
 
-- [Lidianne Barbosa](https://www.linkedin.com/in/lromao/)
-
-![Lidianne](assets/readme/lidianne%20(3).jpg)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lromao/">
+  <img align="center" alt="Lidianne"  width="150px;" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/83047245?v=4"> <br>       
+  <sub>
+          <b>Lidianne Romão</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
