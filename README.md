@@ -21,25 +21,22 @@ O deploy do projeto foi realizado pelo Netlify. [Clique aqui](https://react-lida
 ### Como usar
 Você precisará:
 
-- Instalar o Node.js e clonar o projeto.
 - Instalar as dependências:  npm install
 - Iniciar a aplicação: npm start
 
 ## 3. Descrição
 
- Inserir descrição
+ Desenvolvimento da página da Barbearia Alura. 
+ 
+ Objetivos: criar textos, imagens, blocos de conteúdo, listas de informações; além de mudança de cores, espaçamento, posicionamento de elementos e tudo o mais que se pode realizar numa página web utilizando o HTML e o CSS.
 
 ## 4. Tecnologias utilizadas
 
-- React
-- javascript
 - HTML5
 - CSS3
-- Node.JS
-
 ## 5. Pessoas desenvolvedoras
 
-Este projeto foi desenvolvido durante o Bootcamp da Laboratória, Turma 007 pelas colaboradoras: 
+Este projeto foi desenvolvido para o programa Oracle One | Alura, durante a trilha "Iniciante em Programação T3 - ONE".
 
 - [Lidianne Barbosa](https://www.linkedin.com/in/lromao/)
 
